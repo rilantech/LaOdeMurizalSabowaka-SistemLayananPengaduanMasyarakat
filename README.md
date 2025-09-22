@@ -23,3 +23,7 @@
 ## Spefikasi Smartphone Untuk Instal Aplikasi Android
 - Sistem Operasi : Android 10
 
+## Detail Menu-Menu
+Bisa dilihat di file Sistem Layanan Pengaduan Masyarakat Desa.PDF : https://github.com/rilantech/LaOdeMurizalSabowaka-SistemLayananPengaduanMasyarakat/blob/main/Sistem%20Layanan%20Pengaduan%20Masyarakat%20Desa.pdf
+
+
